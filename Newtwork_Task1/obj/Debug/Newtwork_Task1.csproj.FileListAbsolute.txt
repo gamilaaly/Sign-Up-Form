@@ -1,0 +1,10 @@
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\bin\Debug\Newtwork_Task1.exe.config
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\bin\Debug\Newtwork_Task1.exe
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\bin\Debug\Newtwork_Task1.pdb
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\obj\Debug\Newtwork_Task1.csprojAssemblyReference.cache
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\obj\Debug\Newtwork_Task1.Form1.resources
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\obj\Debug\Newtwork_Task1.Properties.Resources.resources
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\obj\Debug\Newtwork_Task1.csproj.GenerateResource.cache
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\obj\Debug\Newtwork_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\obj\Debug\Newtwork_Task1.exe
+C:\Users\Gamila\source\repos\Newtwork_Task1\Newtwork_Task1\obj\Debug\Newtwork_Task1.pdb
